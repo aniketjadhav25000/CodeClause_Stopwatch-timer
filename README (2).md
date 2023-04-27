@@ -14,6 +14,8 @@ Here I have done total 2 projects Allocated Project 1 and 2
     - stop
     - reset 
 
+# Live Project Link : 
+https://aniketjadhav25000.github.io/Stopwatch-timer/
 # 📓 Tools used : 
 - IDE : VS Code Front-End :
 
